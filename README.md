@@ -38,3 +38,8 @@
 
 '''python
 printf("안녕하세요')
+
+
+[링크텍스트](https://example.com)  
+![이미지설명](https://example.com/image.png)
+
